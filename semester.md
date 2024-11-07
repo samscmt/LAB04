@@ -2,4 +2,10 @@
 
 Übbersicht über die Veranstaltungen im Semester
 
-## Vorlesungen
+## Module
+
+### Softwaretechnik
+
+### Signale und Systeme
+
+### Mathematik 3
