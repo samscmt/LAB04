@@ -6,6 +6,11 @@
 
 ### Softwaretechnik
 
+-Einführung
+-Vorgehensmodelle
+-Agile Softwareentwicklung
+-Requirements Engeneering
+
 ### Signale und Systeme
 
 ### Mathematik 3
