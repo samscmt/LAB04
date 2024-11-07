@@ -20,3 +20,6 @@
 - Laplacetrafo
   
 ### Mobilitätswirtschaft
+
+- Wirtschaftsbereiche
+- Betriebsformen
