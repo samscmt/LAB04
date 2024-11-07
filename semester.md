@@ -1,6 +1,6 @@
 # Wintersemester 2024/25
 
-Übbersicht über die Veranstaltungen im Semester
+Übbersicht über die Veranstaltungen im Semester für alle Studenten
 
 ## Module
 
