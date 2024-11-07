@@ -14,3 +14,9 @@
 ### Signale und Systeme
 
 ### Mathematik 3
+
+- Fourierreihen
+- Fouriertrafo
+- Laplacetrafo
+  
+### Mobilitätswirtschaft
