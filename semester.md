@@ -18,5 +18,6 @@
 - Fourierreihen
 - Fouriertrafo
 - Laplacetrafo
+- Z-Trafo
   
 ### Mobilitätswirtschaft
